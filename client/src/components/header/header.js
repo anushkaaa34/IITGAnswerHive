@@ -46,7 +46,7 @@ const Header = (props) => {
         className={classes.offcanvas}
       >
         <Offcanvas.Header closeButton>
-          <Offcanvas.Title>IITG StackOverflow</Offcanvas.Title>
+          <Offcanvas.Title>IITGAnswerHive</Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
           <Link to="/" onClick={handleClose} className={classes.linkDesign}>
