@@ -1,4 +1,4 @@
-# StackOverflow
+# IITGAnswerHive
 
 This project is built using MERN Stack
 
