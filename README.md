@@ -38,9 +38,9 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Your webapp is ready to be deployed!
 
-- Create a heroku App and push the github code in it.
+- Create a Netlify App and push the github code in it.
 - Setup on the process.env keys
 
 
